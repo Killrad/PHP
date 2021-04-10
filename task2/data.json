@@ -1,0 +1,290 @@
+[
+    {
+        "COMMON": "Кровавый корень",
+        "BOTANICAL": "Sanguinaria canadensis",
+        "ZONE": 4,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$2.44",
+        "AVAILABILITY": 31599
+    },
+    {
+        "COMMON": "Аквилегия",
+        "BOTANICAL": "Aquilegia canadensis",
+        "ZONE": 3,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$9.37",
+        "AVAILABILITY": 30699
+    },
+    {
+        "COMMON": "Болотная Календула",
+        "BOTANICAL": "Caltha palustris",
+        "ZONE": 4,
+        "LIGHT": "По большей части свет",
+        "PRICE": "$6.81",
+        "AVAILABILITY": 51799
+    },
+    {
+        "COMMON": "Первоцвет",
+        "BOTANICAL": "Caltha palustris",
+        "ZONE": 4,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$9.90",
+        "AVAILABILITY": 30699
+    },
+    {
+        "COMMON": "Борец Английский",
+        "BOTANICAL": "Dicentra cucullaria",
+        "ZONE": 3,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$6.44",
+        "AVAILABILITY": 12099
+    },
+    {
+        "COMMON": "Дикий Имбирь",
+        "BOTANICAL": "Asarum canadense",
+        "ZONE": 3,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$9.03",
+        "AVAILABILITY": 41899
+    },
+    {
+        "COMMON": "Перелеска",
+        "BOTANICAL": "Hepatica americana",
+        "ZONE": 4,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$4.45",
+        "AVAILABILITY": 12699
+    },
+    {
+        "COMMON": "Печеночница",
+        "BOTANICAL": "Hepatica americana",
+        "ZONE": 4,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$3.99",
+        "AVAILABILITY": 10299
+    },
+    {
+        "COMMON": "Аризема Трехлистная",
+        "BOTANICAL": "Arisaema triphyllum",
+        "ZONE": 4,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$3.23",
+        "AVAILABILITY": 20199
+    },
+    {
+        "COMMON": "Подофил",
+        "BOTANICAL": "Podophyllum peltatum",
+        "ZONE": 3,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$2.98",
+        "AVAILABILITY": 60599
+    },
+    {
+        "COMMON": "Флокс, Лесистая Местность",
+        "BOTANICAL": "Phlox divaricata",
+        "ZONE": 3,
+        "LIGHT": "Свет или тень",
+        "PRICE": "$2.80",
+        "AVAILABILITY": 12299
+    },
+    {
+        "COMMON": "Флокс, Голубой",
+        "BOTANICAL": "Phlox divaricata",
+        "ZONE": 3,
+        "LIGHT": "Свет или тень",
+        "PRICE": "$5.59",
+        "AVAILABILITY": 21699
+    },
+    {
+        "COMMON": "Клейтония",
+        "BOTANICAL": "Claytonia Virginica",
+        "ZONE": 7,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$6.59",
+        "AVAILABILITY": 20199
+    },
+    {
+        "COMMON": "Триллиум",
+        "BOTANICAL": "Trillium grandiflorum",
+        "ZONE": 5,
+        "LIGHT": "Свет или тень",
+        "PRICE": "$3.90",
+        "AVAILABILITY": 42999
+    },
+    {
+        "COMMON": "Триллиум",
+        "BOTANICAL": "Trillium grandiflorum",
+        "ZONE": 5,
+        "LIGHT": "Свет или тень",
+        "PRICE": "$3.20",
+        "AVAILABILITY": 22199
+    },
+    {
+        "COMMON": "Фиалка, \"Пёсий Клык\"",
+        "BOTANICAL": "Erythronium americanum",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$9.04",
+        "AVAILABILITY": 20199
+    },
+    {
+        "COMMON": "Форелевая Лилия",
+        "BOTANICAL": "Erythronium americanum",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$6.94",
+        "AVAILABILITY": 32499
+    },
+    {
+        "COMMON": "Ужовник",
+        "BOTANICAL": "Erythronium americanum",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$9.58",
+        "AVAILABILITY": 41399
+    },
+    {
+        "COMMON": "Ветреница",
+        "BOTANICAL": "Anemone blanda",
+        "ZONE": 6,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$8.86",
+        "AVAILABILITY": 122698
+    },
+    {
+        "COMMON": "Греческая Ветреница",
+        "BOTANICAL": "Anemone blanda",
+        "ZONE": 6,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$9.16",
+        "AVAILABILITY": 71099
+    },
+    {
+        "COMMON": "Пчелиный Бальзам",
+        "BOTANICAL": "Monarda didyma",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$4.59",
+        "AVAILABILITY": 50399
+    },
+    {
+        "COMMON": "Бергамот",
+        "BOTANICAL": "Monarda didyma",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$7.16",
+        "AVAILABILITY": 42799
+    },
+    {
+        "COMMON": "Черноглазый Гибискус",
+        "BOTANICAL": "Rudbeckia hirta",
+        "ZONE": 0,
+        "LIGHT": "Свет",
+        "PRICE": "$9.80",
+        "AVAILABILITY": 61899
+    },
+    {
+        "COMMON": "Лютик",
+        "BOTANICAL": "Ranunculus",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$2.57",
+        "AVAILABILITY": 61099
+    },
+    {
+        "COMMON": "Лютик",
+        "BOTANICAL": "Ranunculus",
+        "ZONE": 4,
+        "LIGHT": "Тень",
+        "PRICE": "$9.34",
+        "AVAILABILITY": 40399
+    },
+    {
+        "COMMON": "Бабочкина Травка",
+        "BOTANICAL": "Asclepias tuberosa",
+        "ZONE": 0,
+        "LIGHT": "Свет",
+        "PRICE": "$2.78",
+        "AVAILABILITY": 63099
+    },
+    {
+        "COMMON": "Лапчатка",
+        "BOTANICAL": "Potentilla",
+        "ZONE": 0,
+        "LIGHT": "Тень",
+        "PRICE": "$7.06",
+        "AVAILABILITY": 52599
+    },
+    {
+        "COMMON": "Примула",
+        "BOTANICAL": "Oenothera",
+        "ZONE": 3,
+        "LIGHT": "Свет",
+        "PRICE": "$6.56",
+        "AVAILABILITY": 13099
+    },
+    {
+        "COMMON": "Горечавка",
+        "BOTANICAL": "Gentiana",
+        "ZONE": 4,
+        "LIGHT": "Свет или тень",
+        "PRICE": "$7.81",
+        "AVAILABILITY": 51899
+    },
+    {
+        "COMMON": "Голубая Горечавка",
+        "BOTANICAL": "Gentiana",
+        "ZONE": 4,
+        "LIGHT": "Свет или тень",
+        "PRICE": "$8.56",
+        "AVAILABILITY": 50299
+    },
+    {
+        "COMMON": "Лестница Джейкобса",
+        "BOTANICAL": "Polemonium caeruleum",
+        "ZONE": 0,
+        "LIGHT": "Тень",
+        "PRICE": "$9.26",
+        "AVAILABILITY": 22199
+    },
+    {
+        "COMMON": "Греческая Валериана",
+        "BOTANICAL": "Polemonium caeruleum",
+        "ZONE": 0,
+        "LIGHT": "Тень",
+        "PRICE": "$4.36",
+        "AVAILABILITY": 71499
+    },
+    {
+        "COMMON": "Калифорнийский Мак",
+        "BOTANICAL": "Eschscholzia californica",
+        "ZONE": 0,
+        "LIGHT": "Свет",
+        "PRICE": "$7.89",
+        "AVAILABILITY": 32799
+    },
+    {
+        "COMMON": "Стреляющая Звезда",
+        "BOTANICAL": "Dodecatheon",
+        "ZONE": 0,
+        "LIGHT": "По большей части тень",
+        "PRICE": "$8.60",
+        "AVAILABILITY": 51399
+    },
+    {
+        "COMMON": "Змеиный Корень",
+        "BOTANICAL": "Cimicifuga",
+        "ZONE": 0,
+        "LIGHT": "Тень",
+        "PRICE": "$5.63",
+        "AVAILABILITY": 71199
+    },
+    {
+        "COMMON": "Цветок Кардинала",
+        "BOTANICAL": "Lobelia cardinalis",
+        "ZONE": 2,
+        "LIGHT": "Тень",
+        "PRICE": "$3.02",
+        "AVAILABILITY": 22299
+    }
+]
