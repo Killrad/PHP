@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Форма для отправки сообщения</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="form">
+            <form action="#" id="formSend" class="form__body _hide">
+                <h1 class="form__title">Ваша заявка отправлена!</h1>
+                <div class="form__item">
+                    <label id="name1" class="form__label">Фамилия:</label>
+                </div>
+                <div class="form__item">
+                    <label id="name2" class="form__label">Имя:</label>
+                </div>
+                <div class="form__item">
+                    <label id="name3" class="form__label">Отчество:</label>
+                </div>
+                <div class="form__item">
+                    <label id="mail" class="form__label">E-mail:</label>
+                </div>
+                <div class="form__item">
+                    <label id="phone" class="form__label">Телефон:</label>
+                </div>
+                <div class="form__item">
+                    <label id="msg_label" class="form__label"><b>Сообщение:</b></label>
+                    <p id="msg">Должно быть сообщение</p>
+                </div>
+                <div class="form__item">
+                    <label id="wait" class="form__label"><b>Ожидайте:</b></label>
+                </div>
+                <button type="submit" class="form__button">Ок</button>
+            </form>
+            <form action="#" id="form" class="form__body">
+                <h1 class="form__title">Форма для отправки</h1>
+                <div class="form__item">
+                    <label for="formName" class="form__label">ФИО*:</label>
+                    <input id="formName" type="text" name="name" class="form__input _req _name">
+                </div>
+                <div class="form__item">
+                    <label for="formEmail" class="form__label">E-mail*:</label>
+                    <input id="formEmail" type="text" name="email" class="form__input _req _email">
+                </div>
+                <div class="form__item">
+                    <label for="formPhone" class="form__label">Телефон*:</label>
+                    <input id="formPhone" type="text" name="phone" class="form__input _req _phone">
+                </div>
+                <div class="form__item">
+                    <label for="formMessage" class="form__label">Сообщение:</label>
+                    <textarea id="formMessage" name="message" class="form__input"></textarea>
+                </div>
+                <div class="form__item">
+                    <label id="error_label" class="form__label _hide _error">Ошибка:</label>
+                </div>
+                <button type="submit" class="form__button">Отправить</button>
+            </form>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
