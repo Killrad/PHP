@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Тестовая форма</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="form">
+            <form action="#" id="form1" class="form__body">
+                <h1 class="form__title">ЛР 5 (Безопасность)</h1>
+                <div class="form__item">
+                    <label class="form__label">Защищено от SQL инъекции</label>
+                    <label for="log1" class="form__label">Введите логин:</label>
+                    <input id="log1" type="text" name="login" value="andrey" class="form__input">
+                    <label for="pass1" class="form__label">Введите пароль:</label>
+                    <input id="pass1" type="text" name="password" class="form__input">
+                    <label id="ans1" class="form__label"></label>
+                    <button id="btn1" class="form__button">Войти</button>
+                </div>
+        </form>
+        <form action="#" id="form2" class="form__body">   
+                <div class="form__item">
+                    <label class="form__label">Не защищено от SQL инъекции</label>
+                    <label for="log2" class="form__label">Введите логин:</label>
+                    <input id="log2" type="text" name="login" value="1') or ( '1' = '1" class="form__input">
+                    <label for="pass2" class="form__label">Введите пароль:</label>
+                    <input id="pass2" type="text" name="password" class="form__input">
+                    <label id="ans2" class="form__label"></label>
+                    <button id="btn2" class="form__button">Войти</button>
+                </div>
+                
+                
+            </form>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
